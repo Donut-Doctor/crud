@@ -1,5 +1,5 @@
 ## Simple CRUD App
-This is a basic full-stack CRUD app using:
+This is a basic CRUD app using:
 MongoDB for database
 Express & Node.js for backend
 React.js for frontend
@@ -7,17 +7,15 @@ React.js for frontend
 ## How to Run:
 
 # Start Backend:
-bash
-Copy
-Edit
+bash:
+
 cd backend
 npm install
 node server.js
 
 # Start Frontend:
-bash
-Copy
-Edit
+bash:
+
 cd frontend
 npm install
 npm start
