@@ -10,14 +10,18 @@ React.js for frontend
 bash:
 
 cd backend
+
 npm install
+
 node server.js
 
 # Start Frontend:
 bash:
 
 cd frontend
+
 npm install
+
 npm start
 
 ## API Features
